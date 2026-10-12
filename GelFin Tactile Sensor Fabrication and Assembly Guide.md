@@ -66,3 +66,33 @@ Prepare the following materials and components for sensor fabrication and assemb
 3. Perform a preliminary power-on test to confirm proper LED operation.
 4. Once the electrical connections have been verified, encapsulate the solder joints with hot-melt adhesive to provide electrical insulation and mechanical protection.
 5. Inspect the assembled sensor to ensure proper component alignment, secure mechanical connections, and consistent internal illumination.
+
+## Bill of Materials
+
+### 1. Sensor Components
+
+| No. | Component | Specification | Manufacturing Method / Notes |
+|:---:|:---:|:---:|:---:|
+| 1 | Bottom Housing | Photopolymer Resin | SLA 3D Printing |
+| 2 | Top Cover | Photopolymer Resin | SLA 3D Printing |
+| 3 | Camera Module | 120° FOV, Fixed-Focus | FPC Cable with Reserved Power Solder Pads |
+| 4 | LED Illumination System | Red, Blue, and Optional Green LEDs | Configuration A: 2R + 2B; Configuration B: 2R + 2B + 2G |
+| 5 | Mirror | Rectangular | Precision Cutting |
+| 6 | Acrylic Plate | PMMA, Thickness: 3mm | Laser Cutting |
+| 7 | Silicone Sensing Layer | Westru 0030 Silicone Elastomer | Casting and Thermal Curing |
+| 8 | PET Marker Array | Laser-Cut PET Film | Laser Cutting and Adhesive Bonding |
+| 9 | Mounting Screws | M1, Length: 5mm | Top Cover Fastening |
+| 10 | Electrical Wires | Insulated Conductors | LED Power Connections |
+
+### 2. Fabrication Materials and Consumables
+
+| No. | Material | Specification | Application |
+|:---:|:---:|:---:|:---:|
+| 1 | Silicone Part A | Westru 0030, Part A&B | Silicone Sensing Layer |
+| 2 | PET Film | Thickness: 1mm | Marker Fabrication |
+| 3 | Release Liner | Compatible with PET Film | Marker Transfer |
+| 4 | Silicone Adhesive | Silicone-Compatible Adhesive | Marker and Sensing Layer Bonding |
+| 5 | Cyanoacrylate Adhesive | 502 Instant Adhesive | Mechanical Component Fixation |
+| 6 | Opaque Ink | Light-Blocking Coating | Ambient Light Isolation |
+| 7 | Light-Blocking Tape | Opaque Adhesive Tape | LED Light Leakage Prevention |
+| 8 | Hot-Melt Adhesive | Electrically Insulating | Solder Joint Protection |
