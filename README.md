@@ -3,7 +3,11 @@ The system consists of GelFin, TacVim, and IsoPalm. GelFin is a compact visual-t
 
 ## GelFin
 GelFin consists of a housing, a planar mirror, a camera with a fixed focus lens, an LED strip, a top cover, a transparent acrylic plate, and an elastomeric sensing layer carrying visual markers. The housing fixes the relative positions of the optical components. The camera observes the sensing surface through the inclined mirror, which folds the optical path and reduces the package length along the finger. The LED strip illuminates the elastomer through the acrylic plate, which also supports the sensing layer. The top cover secures the sensing stack and allows the elastomer to be replaced without disturbing the internal optical alignment. Normal and tangential loads deform the elastomer and displace the markers, producing tactile images that encode the three force components.
-![Exploded Diagram of GelFin](<imgs/exploded diagram.PNG>)
+
+<!-- ![Exploded Diagram of GelFin](<imgs/exploded diagram.PNG>) -->
+<p align="center">
+<img src="imgs/exploded diagram.PNG" width="80%">
+</p>
 
 
 ## TacVim
@@ -34,4 +38,7 @@ IsoPalm is a wearable exoskeleton positioned beneath the palm and designed as a 
 
 Hook and loop straps secure the exoskeleton links to the operator's fingers and guide their motion according to the IsoPalm kinematic structure. A reflective marker cluster on the palm defines the palm pose, while fingertip markers provide the positions of the five fingers. Miniature vibration motors mounted near the fingertips convey force information estimated by GelFin.
 
-![Exoskeleton System](imgs/exoskeleton_system.jpg)
+<!-- ![Exoskeleton System](imgs/exoskeleton_system.jpg) -->
+<p align="center">
+<img src="imgs/exoskeleton_system.jpg" width="60%">
+</p>
