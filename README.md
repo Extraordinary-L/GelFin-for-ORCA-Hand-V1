@@ -6,7 +6,7 @@ GelFin consists of a housing, a planar mirror, a camera with a fixed focus lens,
 
 <!-- ![Exploded Diagram of GelFin](<imgs/exploded diagram.PNG>) -->
 <p align="center">
-<img src="imgs/exploded diagram.PNG" width="80%">
+<img src="imgs/exploded diagram.PNG" width="60%">
 </p>
 
 
@@ -40,5 +40,5 @@ Hook and loop straps secure the exoskeleton links to the operator's fingers and 
 
 <!-- ![Exoskeleton System](imgs/exoskeleton_system.jpg) -->
 <p align="center">
-<img src="imgs/exoskeleton_system.jpg" width="60%">
+<img src="imgs/exoskeleton_system.jpg" width="50%">
 </p>
